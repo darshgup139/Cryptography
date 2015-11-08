@@ -1,6 +1,6 @@
-//Rutuja Pakhare
-//6774
-//RSA
+//Rohit Siddheshwar
+//6787
+//RSA Without BigInteger
 
 
 import java.util.*;

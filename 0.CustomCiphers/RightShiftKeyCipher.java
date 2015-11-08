@@ -1,3 +1,19 @@
+/*
+*
+* Name : Rohit Siddheshwar
+* Title : Custom Ciphers
+* 
+*/
+
+/*
+* This encryption technique is based on the right shift property.
+* There are two stages of encryption : 
+* 	1. Every Individual letter is right-shifted and the lsb of
+*	   each letter in block of 4 forms one letter which is a key.
+*	2. Additive Cipher is implemented to create confusion. The
+*	   Key is altered so as to make it a semi-public key encryption.
+*/
+
 import java.util.*;
 
 class RightShiftKeyCipher{
