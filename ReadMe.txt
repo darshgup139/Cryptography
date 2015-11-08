@@ -11,7 +11,9 @@ Upload Date :
 
 Contents : 
 =================================================
-This Repository contains all the codes that have been submitted for the evaluation for practicals of the course Cryptography and System Security.
+This Repository contains all the codes that have
+been submitted for the evaluation for practicals
+of the course Cryptography and System Security.
 
 
 Course : 
